@@ -3,5 +3,6 @@
 void LOL::goatk()
 {
 	cout << "LOL¹¥»÷ÊµÏÖ" << endl;
+	//²âÊÔ
 
 }
