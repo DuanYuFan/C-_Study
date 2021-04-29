@@ -1,0 +1,2 @@
+﻿  using声明和using的使用.cpp
+E:\code\c++\day1\Project1\using声明和using的使用.cpp(15,22): error C2874: using 声明导致多次声明“<未知>
